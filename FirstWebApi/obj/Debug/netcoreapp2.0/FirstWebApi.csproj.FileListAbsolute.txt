@@ -1,0 +1,11 @@
+C:\Users\iulian.cucoanis\Documents\FiiPractic\FirstWebApi\FirstWebApi\bin\Debug\netcoreapp2.0\FirstWebApi.deps.json
+C:\Users\iulian.cucoanis\Documents\FiiPractic\FirstWebApi\FirstWebApi\bin\Debug\netcoreapp2.0\FirstWebApi.runtimeconfig.json
+C:\Users\iulian.cucoanis\Documents\FiiPractic\FirstWebApi\FirstWebApi\bin\Debug\netcoreapp2.0\FirstWebApi.runtimeconfig.dev.json
+C:\Users\iulian.cucoanis\Documents\FiiPractic\FirstWebApi\FirstWebApi\bin\Debug\netcoreapp2.0\FirstWebApi.dll
+C:\Users\iulian.cucoanis\Documents\FiiPractic\FirstWebApi\FirstWebApi\bin\Debug\netcoreapp2.0\FirstWebApi.pdb
+C:\Users\iulian.cucoanis\Documents\FiiPractic\FirstWebApi\FirstWebApi\obj\Debug\netcoreapp2.0\FirstWebApi.csprojResolveAssemblyReference.cache
+C:\Users\iulian.cucoanis\Documents\FiiPractic\FirstWebApi\FirstWebApi\obj\Debug\netcoreapp2.0\FirstWebApi.csproj.CoreCompileInputs.cache
+C:\Users\iulian.cucoanis\Documents\FiiPractic\FirstWebApi\FirstWebApi\obj\Debug\netcoreapp2.0\FirstWebApi.AssemblyInfoInputs.cache
+C:\Users\iulian.cucoanis\Documents\FiiPractic\FirstWebApi\FirstWebApi\obj\Debug\netcoreapp2.0\FirstWebApi.AssemblyInfo.cs
+C:\Users\iulian.cucoanis\Documents\FiiPractic\FirstWebApi\FirstWebApi\obj\Debug\netcoreapp2.0\FirstWebApi.dll
+C:\Users\iulian.cucoanis\Documents\FiiPractic\FirstWebApi\FirstWebApi\obj\Debug\netcoreapp2.0\FirstWebApi.pdb
